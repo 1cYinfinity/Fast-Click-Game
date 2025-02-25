@@ -9,7 +9,7 @@ This is a fun **clicker game** where you click on moving targets to score points
 3. The game gets **faster** over time.  
 4. If you miss clicking, **Game Over!**   
 
-## 🚀 Features  
+## 🚀 Features:  
 ✔️ Clickable targets with cool effects  
 ✔️ Increasing difficulty for more challenge  
 ✔️ High score tracking using `localStorage`  
@@ -19,7 +19,7 @@ This is a fun **clicker game** where you click on moving targets to score points
 [Play the game here!](https://your-github-username.github.io/repo-name/)  
 
 
-## 📜 License
+## 📜 License:
 This game is open-source and free to use! 🎉 Feel free to modify and improve it.
 
 💡 Want to contribute? Fork the repo and submit a pull request!
